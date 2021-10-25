@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-caro_refactor/static/css/main.5ff02a97.chunk.css",
+    "main.js": "/react-gh-caro_refactor/static/js/main.b7544069.chunk.js",
+    "main.js.map": "/react-gh-caro_refactor/static/js/main.b7544069.chunk.js.map",
+    "runtime-main.js": "/react-gh-caro_refactor/static/js/runtime-main.e432628a.js",
+    "runtime-main.js.map": "/react-gh-caro_refactor/static/js/runtime-main.e432628a.js.map",
+    "static/css/2.a95be28f.chunk.css": "/react-gh-caro_refactor/static/css/2.a95be28f.chunk.css",
+    "static/js/2.6633c2a5.chunk.js": "/react-gh-caro_refactor/static/js/2.6633c2a5.chunk.js",
+    "static/js/2.6633c2a5.chunk.js.map": "/react-gh-caro_refactor/static/js/2.6633c2a5.chunk.js.map",
+    "index.html": "/react-gh-caro_refactor/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/react-gh-caro_refactor/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.5ff02a97.chunk.css.map": "/react-gh-caro_refactor/static/css/main.5ff02a97.chunk.css.map",
+    "static/js/2.6633c2a5.chunk.js.LICENSE.txt": "/react-gh-caro_refactor/static/js/2.6633c2a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e432628a.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.6633c2a5.chunk.js",
+    "static/css/main.5ff02a97.chunk.css",
+    "static/js/main.b7544069.chunk.js"
+  ]
+}
